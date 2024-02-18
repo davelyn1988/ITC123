@@ -1,0 +1,58 @@
+
+.gallery
+{
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 80px;
+  border: 2px solid #ccc;
+  float:left;
+  width: 130px;
+
+}
+
+.gallery:hover
+{
+  border: 1px solid #f8f6f6;
+}
+
+.gallery img 
+{
+  width: 100%;
+  height: auto;
+    
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  height: auto;
+  border: 0px solid #ccc;
+  
+ }
+
+ .img {
+    border-radius: 100%; 
+    
+    } 
+
+ h1
+ {
+    line-height:70px;
+    background-color: rgb(86, 113, 219);
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top:-35px;
+}   
+
+p{
+  margin-left: 275px;
+  color:#ccc
+}
+
